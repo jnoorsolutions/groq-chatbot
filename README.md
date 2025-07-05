@@ -18,6 +18,9 @@ This is a simple **chatbot application** built using:
 ✅ Easily deployable on **Streamlit Cloud** or any VPS
 
 ---
+**🧪 Application Url**
+https://groq-chatbot-cn9jmzqmzejups6awfhuvn.streamlit.app/
+---
 
 ## 📁 Project Structure
 
