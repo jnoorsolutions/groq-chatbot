@@ -23,7 +23,7 @@ This is a simple **chatbot application** built using:
 
 ```
 .
-├── app.py                       # Main Streamlit app
+├── main_chat.py                       # Main Streamlit app
 ├── requirements.txt             # Python dependencies
 ├── .streamlit/
 │   └── secrets.toml             # Secure API key storage (do not commit)
