@@ -19,14 +19,16 @@ This is a simple **chatbot application** built using:
 
 ---
 **🧪 Application Url**
+
 https://groq-chatbot-cn9jmzqmzejups6awfhuvn.streamlit.app/
+
 ---
 
 ## 📁 Project Structure
 
 ```
 .
-├── main_chat.py                       # Main Streamlit app
+├── main_chat.py                 # Main Streamlit app
 ├── requirements.txt             # Python dependencies
 ├── .streamlit/
 │   └── secrets.toml             # Secure API key storage (do not commit)
