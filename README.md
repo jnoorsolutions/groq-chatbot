@@ -122,7 +122,7 @@ Add this to `.gitignore`:
 
 ## 👨‍💻 Credits
 
-Developed by [Your Name or Company]  
+Developed by [JnoorSolutions]  
 Powered by: Streamlit + Langchain + Groq
 
 ---
